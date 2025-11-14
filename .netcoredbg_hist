@@ -1,0 +1,31 @@
+Console.Print("Hello World")!
+Console.WriteLine("Hello World")!
+Console.WriteLine
+Console.WriteLine()
+Console.WriteLine();
+clear
+:q
+q
+next
+ls
+break Program.cs:12
+break Program.cs:2
+break
+delete 1
+delete *
+delete
+l
+hi
+l
+hi
+run
+break print
+run
+break Program.cs:1
+break Program.cs:2
+break Program.cs:3
+break Program.cs:4
+break Program.cs:5
+break Program.cs:6
+clear
+run
