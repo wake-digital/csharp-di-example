@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wake/projects/dotnet/dotnet.csproj",
+      "projectUniqueName": "/home/wake/projects/csharp-di-example/dotnet.csproj",
       "projectName": "dotnet",
-      "projectPath": "/home/wake/projects/dotnet/dotnet.csproj",
+      "projectPath": "/home/wake/projects/csharp-di-example/dotnet.csproj",
       "packagesPath": "/home/wake/.nuget/packages/",
-      "outputPath": "/home/wake/projects/dotnet/obj/",
+      "outputPath": "/home/wake/projects/csharp-di-example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wake/.nuget/NuGet/NuGet.Config"

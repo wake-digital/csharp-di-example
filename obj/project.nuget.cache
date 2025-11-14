@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YX7IfNS+V94=",
+  "dgSpecHash": "6eJCkGG6y8M=",
   "success": true,
-  "projectFilePath": "/home/wake/projects/dotnet/dotnet.csproj",
+  "projectFilePath": "/home/wake/projects/csharp-di-example/dotnet.csproj",
   "expectedPackageFiles": [
     "/home/wake/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0/microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
     "/home/wake/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
