@@ -7,7 +7,7 @@ using MyApp.Services.Internal;
 
 public static class DI
 {
-    public static ServiceProvider ServiceProvider { get; private set; }
+    public static ServiceProvider ServiceProvider { get; private set; } = null!;
 
     public static void Configure()
     {
