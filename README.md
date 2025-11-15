@@ -7,5 +7,5 @@ dotnet run
 ### Run on Windows:
 
 ```ps1
-¯\_(ツ)_/¯
+#Visual Studio, presumably
 ```
