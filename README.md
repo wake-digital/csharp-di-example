@@ -1,7 +1,3 @@
-### Implementation:
-
-./Program.cs
-
 ### Run on Linux:
 
 ```bash
